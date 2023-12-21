@@ -1,1 +1,1 @@
-{"jeux": [{"nom": "valo", "image": "valo", "tags": ["valo"]}]}
+{"jeux": [{"nom": "fzef", "image": "fzef", "tags": {"py/set": ["fzf"]}}]}
