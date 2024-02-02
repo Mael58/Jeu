@@ -83,6 +83,11 @@ class Library:
 
         print("La bibliothèque a été sauvegardée dans la base de données SQLite.")
         
+        
+    def add_game(self, liste_jeux):
+        self.liste_jeux.append(liste_jeux)
+       
+        
 
 
     
